@@ -1,0 +1,3 @@
+progdi: S1 Informatika
+jurusan: TI
+fakultas: FTIK
